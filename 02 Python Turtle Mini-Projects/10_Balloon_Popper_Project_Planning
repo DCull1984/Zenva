@@ -1,0 +1,32 @@
+1. Definition
+    #1.Be able to detect inputs
+    #2.Require multiple input to pop the balloon
+    #3.Utilise variables, conditions and functions
+
+2. Design
+    #Draw the Balloon
+    #Check input is UP key pressed
+    #Check condition, is balloon at MAX size
+        #YES -> Clear balloon, write "POP!" -> END
+        #NO -> Increase balloon size, return to draw balloon
+    
+    #PSEUDO CODE
+    START
+    
+    Draw the balloon
+    
+    Has the key been pressed
+        Has the balloon reached max size
+            Clear the balloon
+            Write "POP!"
+    
+        IF not
+            Increase balloon size
+            Draw Balloon
+    
+    END
+    
+3. Implementation
+*CHECK 10_Balloon_Popper_Project_Implementation.ipynb
+
+4. Evaluation
