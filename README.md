@@ -8,5 +8,7 @@ Zenva Course
  - Navigate to the folder and open the .ipynb file to see the code and test it's outputs.
  
 # HUMBLE RUST 2024 BUNDLE - TIER 3
-
+ - Download Rust from https://www.rust-lang.org/tools/install and Install
+ 
+ 
 PRAISE BE TO THE HUMBLE BUNDLE!!
